@@ -23,16 +23,12 @@ I work at the intersection of **bioinformatics, medical statistics, and AI-assis
 <a id="selected-projects"></a>
 ### Selected projects
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/the8thday/AgenticPrism-SKILL"><img src="assets/agenticprism.svg" width="100%" alt="AgenticPrism — Agent Skills for statistical analysis in antibody and biologics R&amp;D. Explore repository." /></a></td>
-<td width="50%"><a href="https://github.com/the8thday/DESeq2Agent"><img src="assets/deseq2.svg" width="100%" alt="DESeq2Agent — RNA-seq differential expression workflows with R and Python. Explore repository." /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/the8thday/single_cell_RNA"><img src="assets/singlecell.svg" width="100%" alt="single_cell_RNA — Single-cell and spatial analysis workflows and notes. Explore repository." /></a></td>
-<td width="50%"><a href="https://github.com/the8thday/16s_plot_R"><img src="assets/microbiome.svg" width="100%" alt="16s_plot_R — Microbiome data visualization in R. Explore repository." /></a></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/the8thday/AgenticPrism-SKILL"><img src="assets/agenticprism.svg" width="400" alt="AgenticPrism — Agent Skills for statistical analysis in antibody and biologics R&amp;D. Explore repository." /></a>
+  <a href="https://github.com/the8thday/DESeq2Agent"><img src="assets/deseq2.svg" width="400" alt="DESeq2Agent — RNA-seq differential expression workflows with R and Python. Explore repository." /></a>
+  <a href="https://github.com/the8thday/single_cell_RNA"><img src="assets/singlecell.svg" width="400" alt="single_cell_RNA — Single-cell and spatial analysis workflows and notes. Explore repository." /></a>
+  <a href="https://github.com/the8thday/16s_plot_R"><img src="assets/microbiome.svg" width="400" alt="16s_plot_R — Microbiome data visualization in R. Explore repository." /></a>
+</p>
 
 **Currently building · [AgenticPrism](https://github.com/the8thday/AgenticPrism-SKILL)**<br />
 Modular analysis skills for antibody and biologics R&D, with saved configurations, diagnostics, and reports. **Public beta for research use**; method-specific validation and limitations are documented in the repository.
